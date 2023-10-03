@@ -6,3 +6,4 @@ vvce Mysore
 - modified
 - unmodified
 
+git config --list
