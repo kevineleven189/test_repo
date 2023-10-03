@@ -1,0 +1,8 @@
+vvce Mysore
+
+*there are 4 types of files
+- untracked
+- staged
+- modified
+- unmodified
+
